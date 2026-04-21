@@ -35,8 +35,8 @@
 
 ## 📖 相关文章
 
-- [给 AI 管家喂了 42 万字投资知识](https://x.com/nopinduoduo)
-- [XCrawl 实战：构建 AI 投资知识库](https://x.com/nopinduoduo)
+- [为了让 AI 管家学会交易，我直接爬取了 42万字投资大佬的文章喂给它（附详细教程）](https://x.com/nopinduoduo/status/2036699965024804958)
+- XCrawl 实战：构建 AI 投资知识库（待发布）
 
 ## 📜 License
 
